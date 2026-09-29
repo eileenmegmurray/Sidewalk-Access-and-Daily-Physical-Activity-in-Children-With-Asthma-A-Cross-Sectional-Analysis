@@ -58,6 +58,9 @@ Neighborhood sidewalk presence alone was not associated with daily physical acti
 |---|---|
 | `murrayeileen_FINALPUBH698_CODE.sas` | Full analysis code, from data cleaning through final output tables |
 | `README.md` | Project overview |
+| `MurrayEileen_FINALDRAFT_PUBH698.docx` | Full Final Paper |
+| `NYCEF26_poster.pptx`| Poster used at NYCEF 2026 |
+| `murrayeileen_pubh698presentation_COPY.pptx`| Final Presentation|
 
 The SAS program is organized into the following sections:
 
