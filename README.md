@@ -50,7 +50,7 @@ The data are not included in this repository. To reproduce the analysis, downloa
 
 ## Conclusions
 
-Neighborhood sidewalk presence alone was not associated with daily physical activity among children with current asthma. The significant interaction with neighborhood detracting elements suggests that broader neighborhood context may shape this relationship. Findings may reflect a genuine null association, residual confounding, or unmeasured environmental contexts such as rural versus urban classification.
+Neighborhood sidewalk presence alone was not associated with daily physical activity among children with current asthma. The significant interaction with neighborhood detracting elements suggests that the addition of other neighborhood elements may shape this relationship. Findings may reflect a genuine null association, residual confounding, or unmeasured environmental contexts such as rural versus urban classification.
 
 ## Repository Contents
 
