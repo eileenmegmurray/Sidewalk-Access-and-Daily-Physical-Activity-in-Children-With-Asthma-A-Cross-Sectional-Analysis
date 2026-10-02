@@ -8,7 +8,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5849-1761)
 
 MPH capstone project (PUBH 698), CUNY Graduate School of Public Health and Health Policy, 2026.
-Presented at the 2026 NYC Epidemiology Forum at the Icahn School of Medicine at Mount Sinai.
+[Presented at the 2026 NYC Epidemiology Forum at the Icahn School of Medicine at Mount Sinai](https://www.nyc.gov/site/doh/health/health-topics/nyc-epidemiology-forum.page).
 
 ---
 
